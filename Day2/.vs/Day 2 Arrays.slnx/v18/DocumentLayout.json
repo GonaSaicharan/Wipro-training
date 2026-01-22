@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saich\\OneDrive\\\u6587\u6863\\wipro\\Day 2 Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6960E66C-53EE-4EB2-BA38-6F472879F1E2}|Day 2 Arrays\\Day 2 Arrays.csproj|c:\\users\\saich\\onedrive\\\u6587\u6863\\wipro\\day 2 arrays\\day 2 arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6960E66C-53EE-4EB2-BA38-6F472879F1E2}|Day 2 Arrays\\Day 2 Arrays.csproj|solutionrelative:day 2 arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saich\\OneDrive\\\u6587\u6863\\wipro\\Day 2 Arrays\\Day 2 Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Day 2 Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\saich\\OneDrive\\\u6587\u6863\\wipro\\Day 2 Arrays\\Day 2 Arrays\\Program.cs",
+              "RelativeToolTip": "Day 2 Arrays\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T04:56:14.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

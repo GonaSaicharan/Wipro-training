@@ -1,0 +1,14 @@
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\bin\Debug\net10.0\Day 2 Arrays.exe
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\bin\Debug\net10.0\Day 2 Arrays.deps.json
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\bin\Debug\net10.0\Day 2 Arrays.runtimeconfig.json
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\bin\Debug\net10.0\Day 2 Arrays.dll
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\bin\Debug\net10.0\Day 2 Arrays.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.AssemblyInfoInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.AssemblyInfo.cs
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.dll
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\refint\Day 2 Arrays.dll
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\Day 2 Arrays.genruntimeconfig.cache
+C:\Users\saich\OneDrive\文档\wipro\Day 2 Arrays\Day 2 Arrays\obj\Debug\net10.0\ref\Day 2 Arrays.dll

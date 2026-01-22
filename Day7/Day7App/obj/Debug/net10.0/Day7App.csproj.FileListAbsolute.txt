@@ -1,0 +1,14 @@
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\bin\Debug\net10.0\Day7App.exe
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\bin\Debug\net10.0\Day7App.deps.json
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\bin\Debug\net10.0\Day7App.runtimeconfig.json
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\bin\Debug\net10.0\Day7App.dll
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\bin\Debug\net10.0\Day7App.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.AssemblyInfoInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.AssemblyInfo.cs
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.csproj.CoreCompileInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.dll
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\refint\Day7App.dll
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\Day7App.genruntimeconfig.cache
+C:\Users\saich\OneDrive\文档\wipro\Day7\Day7App\obj\Debug\net10.0\ref\Day7App.dll

@@ -1,0 +1,14 @@
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\bin\Debug\net10.0\Day10_solidprin02.exe
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\bin\Debug\net10.0\Day10_solidprin02.deps.json
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\bin\Debug\net10.0\Day10_solidprin02.runtimeconfig.json
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\bin\Debug\net10.0\Day10_solidprin02.dll
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\bin\Debug\net10.0\Day10_solidprin02.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.AssemblyInfoInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.AssemblyInfo.cs
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.csproj.CoreCompileInputs.cache
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.dll
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\refint\Day10_solidprin02.dll
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.pdb
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\Day10_solidprin02.genruntimeconfig.cache
+C:\Users\saich\OneDrive\文档\wipro\Day10_solidprin02\obj\Debug\net10.0\ref\Day10_solidprin02.dll
