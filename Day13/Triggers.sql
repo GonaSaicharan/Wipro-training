@@ -1,0 +1,2 @@
+--TRIGGERS
+CREATE TABLE EmployeeSalaryAudit(    AuditId INT IDENTITY(1,1) PRIMARY KEY,    EmpId INT,    OldSalary INT,    NewSalary INT,    ChangedOn DATETIME DEFAULT GETDATE());CREATE TRIGGER trg_AuditEmployeeSalaryON EmployeeAFTER UPDATEASBEGIN    -- Prevent unnecessary execution    IF NOT UPDATE(Salary)        RETURN;    INSERT INTO EmployeeSalaryAudit (EmpId, OldSalary, NewSalary)    SELECT         d.EmpId,        d.Salary AS OldSalary,        i.Salary AS NewSalary    FROM deleted d    INNER JOIN inserted i        ON d.EmpId = i.EmpId;END;
